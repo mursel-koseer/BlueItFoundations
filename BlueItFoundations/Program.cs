@@ -1,4 +1,6 @@
 ﻿using BlueItFoundations.ModuleOne;
+using BlueItFoundations.ModuleTwo;
 
-WriteYourFirstCodeUsing.Init();
+//WriteYourFirstCodeUsing.Init();
+CreateAndRunSimpleCSharpConsoleApplications.Init();
 Console.ReadLine();
